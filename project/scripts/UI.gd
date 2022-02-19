@@ -1,6 +1,5 @@
 extends Control
 
-
 var food_cout = 0
 onready var food_count_label = $MarginContainer/HBoxContainer/FoodCount
 
