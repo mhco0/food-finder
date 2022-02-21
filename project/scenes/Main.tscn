@@ -23,6 +23,7 @@ script = ExtResource( 3 )
 
 [node name="Vehicle" parent="." instance=ExtResource( 2 )]
 position = Vector2( 320, 180 )
+speed = 20000
 
 [node name="TopWall" type="StaticBody2D" parent="."]
 
