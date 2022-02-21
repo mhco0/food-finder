@@ -6,7 +6,7 @@ This is a Simple food finder Autonomous Agent made for a assigment in my IF684EC
 
 ![Demo](project/asserts/imgs/food-finder-gif.gif)
 
-## Requiremnets
+## Requirements
 
 For run this project you will need to install [Godot](https://godotengine.org/download). The current version used by the project is the version 3.2.1.
 
